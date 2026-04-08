@@ -1,0 +1,163 @@
+{
+  "shop_info": {
+    "name": "Brew & Bytes Café",
+    "location": "Tel Aviv, Israel",
+    "established": "2020-01-15",
+    "manager": "David Cohen"
+  },
+  "monthly_sales": [
+    {
+      "month": "January",
+      "revenue": 45000,
+      "expenses": 28000,
+      "customers": 1200
+    },
+    {
+      "month": "February",
+      "revenue": 48000,
+      "expenses": 29000,
+      "customers": 1350
+    },
+    {
+      "month": "March",
+      "revenue": 52000,
+      "expenses": 30000,
+      "customers": 1450
+    },
+    {
+      "month": "April",
+      "revenue": 55000,
+      "expenses": 31000,
+      "customers": 1500
+    },
+    {
+      "month": "May",
+      "revenue": 58000,
+      "expenses": 32000,
+      "customers": 1600
+    },
+    {
+      "month": "June",
+      "revenue": 62000,
+      "expenses": 33000,
+      "customers": 1700
+    }
+  ],
+  "products": [
+    {
+      "name": "Espresso",
+      "category": "Hot Drinks",
+      "price": 12,
+      "cost": 4,
+      "units_sold": 850
+    },
+    {
+      "name": "Cappuccino",
+      "category": "Hot Drinks",
+      "price": 15,
+      "cost": 5,
+      "units_sold": 920
+    },
+    {
+      "name": "Latte",
+      "category": "Hot Drinks",
+      "price": 16,
+      "cost": 6,
+      "units_sold": 1100
+    },
+    {
+      "name": "Iced Coffee",
+      "category": "Cold Drinks",
+      "price": 18,
+      "cost": 7,
+      "units_sold": 680
+    },
+    {
+      "name": "Croissant",
+      "category": "Pastries",
+      "price": 14,
+      "cost": 6,
+      "units_sold": 450
+    },
+    {
+      "name": "Muffin",
+      "category": "Pastries",
+      "price": 13,
+      "cost": 5,
+      "units_sold": 380
+    },
+    {
+      "name": "Sandwich",
+      "category": "Food",
+      "price": 28,
+      "cost": 12,
+      "units_sold": 320
+    },
+    {
+      "name": "Salad",
+      "category": "Food",
+      "price": 32,
+      "cost": 15,
+      "units_sold": 210
+    }
+  ],
+  "employees": [
+    {
+      "name": "Yael Levy",
+      "position": "Head Barista",
+      "hours_per_week": 40,
+      "hourly_rate": 65
+    },
+    {
+      "name": "Omer Avraham",
+      "position": "Barista",
+      "hours_per_week": 35,
+      "hourly_rate": 55
+    },
+    {
+      "name": "Noa Mizrahi",
+      "position": "Barista",
+      "hours_per_week": 30,
+      "hourly_rate": 55
+    },
+    {
+      "name": "Eitan Katz",
+      "position": "Baker",
+      "hours_per_week": 25,
+      "hourly_rate": 60
+    },
+    {
+      "name": "Maya Goldstein",
+      "position": "Server",
+      "hours_per_week": 20,
+      "hourly_rate": 50
+    }
+  ],
+  "customer_ratings": [
+    {
+      "category": "Coffee Quality",
+      "rating": 4.8,
+      "reviews": 245
+    },
+    {
+      "category": "Service",
+      "rating": 4.6,
+      "reviews": 238
+    },
+    {
+      "category": "Atmosphere",
+      "rating": 4.7,
+      "reviews": 220
+    },
+    {
+      "category": "Value for Money",
+      "rating": 4.3,
+      "reviews": 215
+    },
+    {
+      "category": "Cleanliness",
+      "rating": 4.9,
+      "reviews": 250
+    }
+  ]
+}
